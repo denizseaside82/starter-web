@@ -12,3 +12,5 @@ The help the contect about it.
 
 ## Help
 Another dummy text
+
+Copyright

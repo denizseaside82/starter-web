@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 The help the contect about it.
 
 ## Help
-Another dummy text
+Another dummy text with more dummy
 
 Copyright
+2020
